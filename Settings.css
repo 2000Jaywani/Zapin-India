@@ -1,0 +1,25 @@
+.main_setting_page{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;  
+    margin-top: 20px;
+}
+
+.settings_form{
+    margin-left: 50px;
+    /* height: 220px;
+    width: 400px; */
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 600px;
+    box-shadow: 1px 5px 6px 1px rgb(91, 85, 85);
+    background-color: white;
+}
+
+#btn_Setting{
+    background-color: #F2791F;
+    border: none;
+    font-weight: bolder;
+}

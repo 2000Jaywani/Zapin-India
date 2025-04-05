@@ -1,0 +1,30 @@
+
+.navbar{
+    background-color:  #F2791F;
+    width: 100vw;
+    height: 60px;    
+}
+
+.left-nav-zap{
+    background-color:  #FFA923;
+    width: 15vw;
+    height: 60px;    
+    text-align: center;
+    margin-top: -8px;
+    padding-top: 13px;
+    letter-spacing: 1px;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+.right-nav-ad{
+    text-align: center;
+    margin-right: 20px;  
+    letter-spacing: 1px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder; 
+    color: white;
+}
+
